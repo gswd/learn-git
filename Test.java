@@ -67,4 +67,4 @@ class Student{
 
 
 //Student@SDF#FwSD
-//name:cat age:12
+//name:cat age - 120
